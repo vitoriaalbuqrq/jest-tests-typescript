@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0,
+  "code-runner.executorMap": {
+    "typescript": "clear && npx ts-node --files --transpile-only"
+  },
+  "liveServer.settings.port": 5501,
+  "files.eol": "\n",
+  "prettier.endOfLine": "lf"
+}
